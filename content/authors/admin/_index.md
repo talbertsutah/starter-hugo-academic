@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tom Alberts
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Utah
+  url: https://www.utah.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My main focus of research is in probability theory, and within that I mostly study two-dimensional conformally invariant systems. The basic model of these are the Schramm-Loewner Evolution and its variants. I also have interests in statistical mechanics, random walks in random environments, directed polymer models, last passage percolation, and random matrix theory.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Probability Theory
+- Statistical Mechanics
+- Random Walks in Random Evironments
+- Directed Polymer Models
+- Last Passage Percolation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Ph.D. in Mathematics
+    institution: Courant Institute of Mathematical Sciences at New York University
     year: 2008
+  - course: Maybe a master's degree
+    institution: Massachusetts Institute of Technology
+    year: 2007
+  - course: Maybe a bachelor's degree
+    institution: Massachusetts Institute of Technology
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +72,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently an associate professor in the [Department of Mathematics](http://www.math.utah.edu/) at the [University of Utah](http://www.utah.edu/). My research is focused on probability theory.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to being at Utah, I was the Scott Russell Johnson Senior Postdoctoral Fellow in the [Department of Mathematics](http://www.math.caltech.edu/) at Caltech, and an NSERC Postdoctoral Fellow in the [Department of Mathematics](http://www.math.toronto.edu/) at the University of Toronto. I completed my graduate studies at the [Courant Institute of Mathematical Sciences](http://www.cims.nyu.edu/) at New York University. My thesis advisor was [Scott Sheffield](http://math.mit.edu/~sheffield/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
