@@ -11,6 +11,7 @@ weight: 40
 
 title: Experience
 subtitle:
+active: false
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -31,11 +32,11 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
-        
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''

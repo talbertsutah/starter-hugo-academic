@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 30
+active: false
 
 title: Skills
 subtitle:
@@ -16,10 +17,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+- description: >-
+    Tom Alberts <br>
+    Department of Mathematics, University of Utah<br>
+    155 S 1400 E Room 233 <br>
+    Salt Lake City, UT 84112-0090<br>
+  name: Mailing Address
 - description: 100%
   icon: chart-line
   icon_pack: fas
